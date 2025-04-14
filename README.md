@@ -1,2 +1,3 @@
-# Modelos1PruebasSaberPro
-Repositorio de la asignatura modelos 1 donde voy a trabajar un problema de clasificación machine learning sobre las pruebas saber pro.
+# Repositorio de la asignatura modelos 1 
+Vamos a inntentar resolver un problema de clasificación machine learning sobre las pruebas saber pro.
+Nicolas Penalosa. - Ingeniería de Sistemas
