@@ -3,4 +3,4 @@ Vamos a inntentar resolver un problema de clasificación machine learning sobre 
 Nicolas Penalosa. CC: 1036683756 - Ingeniería de Sistemas
 <br/>
 Video entrega #2:  https://www.youtube.com/watch?v=F-73pT1ghMw
-
+Video entrega final: https://www.youtube.com/watch?v=ot3HsrPgZS4
